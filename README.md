@@ -1,2 +1,1 @@
-# chatgpt
-ChatGPT DIWES
+# ChatGPT DIWES
